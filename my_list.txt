@@ -4,4 +4,5 @@
   <li> Mafke sure stadium is available </li>
   <li> Offerings to EW </li>
   <li> PAy CSW</li>
+</ul>
 </html>
