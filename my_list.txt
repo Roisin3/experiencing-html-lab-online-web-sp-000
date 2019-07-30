@@ -1,4 +1,7 @@
 <html>
 <ul>
-  <li>
+  <li> "Get jerseys order and pressed"</li>
+  <li> Mafke sure stadium is available </li>
+  <li> Offerings to EW </li>
+  <li> PAy CSW</li>
 </html>
